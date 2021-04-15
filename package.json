@@ -1,0 +1,17 @@
+{
+    "name": "@jaxcoder/pharo-acm",
+    "version": "1.0.1",
+    "main": "index.js",
+    "description": "Pharo ACM contracts for integrations",
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/PharoACM/pharo-acm-npm-package"
+    },
+    "keywords": [
+        "pharo",
+        "acm",
+        "liquidity",
+        "coverage",
+        "defi"
+    ]
+}
